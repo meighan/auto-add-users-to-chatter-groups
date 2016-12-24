@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.AccountNumber</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Chatter_Group_Alignment__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Chatter_Group_Alignment</members>
+        <members>Chatter_Group_Alignment/Example_Chatter_Group_Alignment_Export.xlsx</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>Auto_Assign_Active_User_to_Group-4</members>
+        <members>New_User_Chatter_Group_Auto_Assignment-4</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Auto_Assign_Active_User_to_Group</members>
+        <members>New_User_Chatter_Group_Auto_Assignment</members>
+        <name>FlowDefinition</name>
+    </types>
+    <version>36.0</version>
+</Package>
